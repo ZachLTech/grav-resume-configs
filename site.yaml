@@ -1,0 +1,14 @@
+title: Zachary Lopez
+description: Full-Stack Web Developer & Software Engineer
+author:
+  name: Zachary Lopez
+  email: 'EMAIL'
+metadata:
+    description: 'My Resume Site.'
+
+website: "zachl.tech"
+
+address:
+    - line: "COUNTY, STATE"
+contact:
+    - line: "EMAIL"
